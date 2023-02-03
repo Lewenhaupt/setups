@@ -213,8 +213,8 @@ define_keymap(re.compile('.*'), {
     K('LM-KEY_0'): K('RM-KEY_0'),
     K('LShift-LM-KEY_7'): K('RM-MINUS'),
     K('LShift-LM-RIGHT_BRACE'): K('RM-RIGHT_BRACE'),
-    K('LShift-LM-KEY_8'): K('RM-KEY_7'),
-    K('LShift-LM-KEY_0'): K('RM-KEY_9'),
+    K('LShift-LM-KEY_8'): K('RM-KEY_7'),  
+    K('LShift-LM-KEY_9'): K('RM-KEY_0'),
     K('LShift-LM-KEY_102ND'): K('RM-KEY_102ND'),
 }, 'LM mods')
 
